@@ -110,6 +110,10 @@ else:
 ![image](https://github.com/sharmitha3/Search-Algorithm/assets/145974496/0f2d0691-5c9d-46d9-aef0-5464dff17592)
 ![image](https://github.com/sharmitha3/Search-Algorithm/assets/145974496/2f7cd305-9d8a-4bdc-ac87-0b2cb3c533d3)
 
+## Output:
+![image](https://github.com/sharmitha3/Search-Algorithm/assets/145974496/d793d710-8a79-47bd-8391-35dfc3e4771c)
+![image](https://github.com/sharmitha3/Search-Algorithm/assets/145974496/05520bbe-2998-40f3-ab78-4915b0f870f2)
+![image](https://github.com/sharmitha3/Search-Algorithm/assets/145974496/2e60f648-1885-4094-974b-9884053e65d9)
 
 
 
